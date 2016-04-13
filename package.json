@@ -1,0 +1,22 @@
+{
+  "name": "jwt-util",
+  "version": "0.0.1",
+  "description": "JSON Web Token (JWT) utility for encoding and decoding JWTs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "jwt",
+    "json",
+    "json",
+    "web",
+    "token",
+    "jwa",
+    "jws",
+    "jwe",
+    "jose"
+  ],
+  "author": "John Halbert <john@johnhalbert.com> (http://johnhalbert.com)",
+  "license": "MIT"
+}
